@@ -1,5 +1,5 @@
 {
-  "name": "@megaplan/babel-loader",
+  "name": "babel-loader",
   "version": "6.2.4",
   "description": "babel module loader for webpack",
   "files": [
